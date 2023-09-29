@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "关于我"
+title                    : "朱禹（ZHU Yu）"
 title_separator          : "-"
 name                     : &name "朱禹"
 description              : &description "南京大学信息管理学院"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "朱禹 / ZHU Yu"
+  name             : "朱禹（ZHU Yu）"
   avatar           : "profile.jpg"
   bio              : "图书馆学在读硕士研究生，研究方向：信息资源建设、学术规范与评价。"
-  location         : "江苏，中国"
+  location         : "中国，江苏"
   employer         : "南京大学信息管理学院"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=QyfeOwsAAAAJ&hl=zh-CN"
