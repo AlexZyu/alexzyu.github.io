@@ -11,9 +11,9 @@ title                    : "关于我"
 title_separator          : "-"
 name                     : &name "朱禹"
 description              : &description "南京大学信息管理学院"
-url                      : https://zhuyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://alexzyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "AlexZyu/zhuyu.github.io"
+repository               : "AlexZyu/alexzyu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
