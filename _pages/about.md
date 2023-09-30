@@ -18,7 +18,7 @@ redirect_from:
 
 ---
 
-欢迎您访问我的[学术成果](#)或[谷歌学术档案](https://scholar.google.com/citations?user=QyfeOwsAAAAJ&hl=zh-CN)了解更多关于我的学术成果的详细信息。
+欢迎您访问我的[学术成果](/publications/)或[CNKI学者主页](https://au.cnki.net/author/personalInfo/000056113681)了解更多关于我的学术成果的详细信息。
 
 欢迎通过邮件与我联系：
 

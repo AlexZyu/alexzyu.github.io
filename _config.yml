@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "朱禹（ZHU Yu）"
   avatar           : "profile.jpg"
-  bio              : "图书馆学在读硕士研究生，研究方向：信息资源建设、学术规范与评价。"
+  bio              : "图书馆学在读硕士研究生。"
   location         : "中国，江苏"
   employer         : "南京大学信息管理学院"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -187,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  research:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -242,6 +245,14 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+  # research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
       author_profile: true
       share: true
 

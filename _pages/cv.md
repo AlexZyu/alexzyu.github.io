@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "简历"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,41 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育经历
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 管理学硕士. 南京大学, 2023-2026（在读）
+* 管理学学士. 四川大学, 2019-2023
 
-Work experience
+工作经历
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023.03-2023.05：成都惠厚科技有限公司
+* 2022.09-2023.01：四川大学图书馆研究发展中心（四川省高等学校图书情报工作指导委员会）
+* 2022.03-2023.01：中国科学院成都文献情报中心
+* 2020.08-2022.01：北京字节跳动科技有限公司
+* 2020.11-2021.04：成都鹏程与君教育科技有限公司（柚子教育）
   
-Skills
+技能
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 公文写作
+* NLP（自然语言处理）
+* SNA（社会网络分析）
+* 统计分析：Python, SPSS
+* 可视化：Visio, Origin, Tableau
+* 编程语言：PHP, HTML5, CSS, JavaScript, SQL, C
 
-Publications
+发表论文
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+<!-- 工作经历
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+其他活动
 ======
-* Currently signed in to 43 different slack teams
+* 中国索引学会会员（2022-）
+* 中国科学学与科技政策研究会会员（2023-）

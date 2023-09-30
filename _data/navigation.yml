@@ -4,19 +4,22 @@ main:
     url: /publications/
 
   - title: "研究方向"
-    url: /talks/
+    url: /research/
 
   - title: "获奖情况"
     url: /portfolio/
 
-  - title: "工作经历"
-    url: /teaching/    
+  # - title: "工作经历"
+  #   url: /teaching/    
         
   # - title: "Blog Posts"
   #   url: /year-archive/
     
   - title: "CV"
     url: /cv/
+
+#  - title: "CNKI学者主页"
+#     url: https://kns.cnki.net/kcms2/author/detail?v=MwumK-qo9AApK4qCobmeQRKLrd6LUeKv1N3Y9uwGwxBbdG82q0jeqFGsPWmKLMuifu9Vm5JwP0YKJ3A-v25G_uIz4iOyFyfwQe4kpDfrOzo=&uniplatform=NZKPT&flag=copy
     
   # - title: "Guide"
   #   url: /markdown/
