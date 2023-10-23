@@ -24,4 +24,4 @@ redirect_from:
 
 **E-mail：**zhu.yu@smail.nju.edu.cn
 
-实验室地址:信息管理学院A311室（不一定能找到我，不常在实验室 :D ）
+实验室地址:信息管理学院A311室
