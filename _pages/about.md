@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-本人目前就读于[南京大学信息管理学院](https://im.nju.edu.cn)，正攻读图书馆学硕士学位（2023-2026），师从[叶继元教授](https://im.nju.edu.cn/yjy/list.htm)。我的研究兴趣包括信息资源建设、学术规范与评价和信息计量学。截至2023年12月，已公开[发表论文](/publications/)**5篇**，其中**CSSCI论文3篇**（《情报学报》《图书情报知识》《图书馆》），中文会议论文1篇，论文集收录论文1篇。
+本人目前就读于[南京大学信息管理学院](https://im.nju.edu.cn)，正攻读图书馆学硕士学位（2023-2026），师从[叶继元教授](https://im.nju.edu.cn/yjy/list.htm)。我的研究兴趣包括数字图书馆以及人工智能生成内容（AI Generated-Content）对未来图书馆的影响。截至2023年12月，已公开[发表论文](/publications/)**5篇**，其中**CSSCI论文3篇**（《情报学报》《图书情报知识》《图书馆》），中文会议论文1篇，论文集收录论文1篇。
 
 ---
 同时，我也是中国索引学会和中国科学学与科技政策研究会的会员。
@@ -24,4 +24,6 @@ redirect_from:
 
 **E-mail：**zhu.yu@smail.nju.edu.cn
 
-实验室地址:信息管理学院A311室
+实验室地址:南京大学仙林校区信息管理学院A311室
+Room A311, iSchool, Nanjing Univ., No. 163, Xianlin Avenue, Qixia District 
+Nanjing, China, 210023
