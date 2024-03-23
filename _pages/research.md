@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 ## 研究方向
-1. AIGC与未来图书馆
+1. AIGC与数字图书馆
 2. 数字图书馆
 3. 图书馆评价/指标
 
