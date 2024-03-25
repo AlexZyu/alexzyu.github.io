@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "口头汇报"
+title: "报告"
 permalink: /talks/
 author_profile: true
 ---
