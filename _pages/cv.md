@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+政治面貌
+======
+* 中国共产党党员（2023-）
+
 教育经历
 ======
 * 管理学硕士. 图书馆学. 南京大学, 2023-2026（预计）
@@ -35,6 +39,7 @@ redirect_from:
 * 统计分析：Python, SPSS
 * 可视化：Visio, Origin, Tableau
 * 编程语言：PHP, HTML5, CSS, JavaScript, SQL, C
+* ...
 
 发表论文
 ======
