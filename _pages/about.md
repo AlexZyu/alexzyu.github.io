@@ -13,8 +13,8 @@ redirect_from:
 ---
 同时，我也是中国索引学会和中国科学学与科技政策研究会会员。
 
-- 中国科学学与科技政策研究会（The Chinese Association of Science of Science and S&T Policy Research）是全国从事科学学与科技政策研究工作者组成的学术团体和社团法人。为发展我国科技政策与管理工作、推动我国决策科学化和民主化开展各项活动。
 - 中国索引学会（The China Society of Indexers）是索引研究和编纂的非营利性学术组织，旨在促进索引理论研究，繁荣索引编辑出版，培训索引编纂人才，加强国内外学术交流。
+- 中国科学学与科技政策研究会（The Chinese Association of Science of Science and S&T Policy Research）是全国从事科学学与科技政策研究工作者组成的学术团体和社团法人。为发展我国科技政策与管理工作、推动我国决策科学化和民主化开展各项活动。
 
 ---
 
@@ -32,4 +32,4 @@ Nanjing, China, 210023
 
 ---
 
-（更新于2024/09/30）
+（更新于2024/11/02）

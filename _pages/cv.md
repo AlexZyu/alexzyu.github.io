@@ -31,16 +31,6 @@ redirect_from:
 * 2023.09-至今：南京大学图书馆学生发展协会活动策划部
 * 2019.09-2021.06：四川大学图书馆志愿者队宣传部
 
-技能
-======
-* 公文写作
-* NLP（自然语言处理）
-* SNA（社会网络分析）
-* 统计分析：Python, SPSS
-* 可视化：Visio, Origin, Tableau
-* 编程语言：PHP, HTML5, CSS, JavaScript, SQL, C
-* ...
-
 发表论文
 ======
   <ul>{% for post in site.publications %}
