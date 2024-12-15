@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-本人目前就读于[南京大学信息管理学院](https://im.nju.edu.cn)，正硕博连读攻读图书馆学博士学位（2023-2029），师从[叶继元教授](https://im.nju.edu.cn/yjy/list.htm)。我的研究兴趣包括数字图书馆以及人工智能生成内容（AI Generated-Content）对未来图书馆的影响。[**发表各类论文10余篇**](/publications/)。担任信息资源管理领域的国际专业期刊Information Processing and Management（SSCI一区，中科院二区）审稿人。
+本人目前就读于[南京大学信息管理学院](https://im.nju.edu.cn)，正硕博连读攻读信息资源管理（图书馆学方向）博士学位（2023-2029），师从[叶继元教授](https://im.nju.edu.cn/yjy/list.htm)。我的研究兴趣包括数字图书馆以及人工智能生成内容（AI Generated-Content）对未来图书馆的影响。[**发表各类论文10余篇**](/publications/)。担任信息资源管理领域的国际专业期刊Information Processing and Management（SSCI一区，中科院二区）审稿人。
 
 ---
 同时，我也是中国索引学会和中国科学学与科技政策研究会会员。
@@ -32,4 +32,4 @@ Nanjing, China, 210023
 
 ---
 
-（更新于2024/11/11）
+（更新于2024/12/15）
