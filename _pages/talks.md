@@ -5,9 +5,13 @@ permalink: /talks/
 author_profile: true
 ---
 
-## Beyond the Binary: The System of All-round Evaluation of Research and Its Practices in China
+<!-- ## Beyond the Binary: The System of All-round Evaluation of Research and Its Practices in China
+- 时间：2025/12/10 (Upcoming)
+- 地点：Hyatt Regency Crystal City · Virginia, USA · [2025 ASIS&T Annual Meeting](https://www.asist.org/meetings-events/am/am25/) -->
+
+<!-- ## Beyond the Binary: The System of All-round Evaluation of Research and Its Practices in China
 - 时间：2025/09/0? (Upcoming)
-- 地点：The University of Bristol · Bristol, UK ·[STI-ENID 2025](https://www.stienid2025.org/)
+- 地点：The University of Bristol · Bristol, UK · [STI-ENID 2025](https://www.stienid2025.org/) -->
 
 ## 垂直大模型的开发、应用与反思
 - 日期：2025/05/16
@@ -57,11 +61,11 @@ author_profile: true
 ---
 
 # 参加会议
-## [29th Annual International Conference on Science and Technology Indicators](https://www.stienid2025.org/)
+<!-- ## [29th Annual International Conference on Science and Technology Indicators](https://www.stienid2025.org/)
 - 时间：2025/09/03-2025/09/06
 - 地点：Bristol, UK
 - 主办单位：International Society for Scientometrics and Informetrics (ISSI) & Network of Indicator Designers (ENID)
-- 承办单位：The University of Bristol
+- 承办单位：The University of Bristol -->
 
 ## 2025年中国索引学会学术评价、规范与数据伦理专业委员会成立大会暨中国特色、智能学术评价及其治理研讨会
 - 时间：2025/03/28-2025/03/30
