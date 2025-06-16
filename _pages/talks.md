@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-<!-- ## Beyond the Binary: The System of All-round Evaluation of Research and Its Practices in China
+<!-- ## LISGPT: Research on the Construction of a Library and Information Science Academic LLM Based on the Boundary Knowledge Enhance Framework
 - 时间：2025/12/10 (Upcoming)
 - 地点：Hyatt Regency Crystal City · Virginia, USA · [2025 ASIS&T Annual Meeting](https://www.asist.org/meetings-events/am/am25/) -->
 
@@ -66,6 +66,13 @@ author_profile: true
 - 地点：Bristol, UK
 - 主办单位：International Society for Scientometrics and Informetrics (ISSI) & Network of Indicator Designers (ENID)
 - 承办单位：The University of Bristol -->
+
+## “博藏智用——人工智能时代的图书馆”学术研讨会
+- 时间：2025/06/20-2025/06/22
+- 地点：上海
+- 主办单位：华东师范大学经济与管理学院、《中国图书馆学报》编辑部
+- 协办单位：复旦大学国家智能评价与治理实验基地
+
 
 ## 2025年中国索引学会学术评价、规范与数据伦理专业委员会成立大会暨中国特色、智能学术评价及其治理研讨会
 - 时间：2025/03/28-2025/03/30
