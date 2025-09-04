@@ -9,9 +9,9 @@ author_profile: true
 - 时间：2025/12/10 (Upcoming)
 - 地点：Hyatt Regency Crystal City · Virginia, USA · [2025 ASIS&T Annual Meeting](https://www.asist.org/meetings-events/am/am25/) -->
 
-<!-- ## Beyond the Binary: The System of All-round Evaluation of Research and Its Practices in China
-- 时间：2025/09/0? (Upcoming)
-- 地点：The University of Bristol · Bristol, UK · [STI-ENID 2025](https://www.stienid2025.org/) -->
+## Beyond the Binary: The System of All-round Evaluation of Research and Its Practices in China
+- 时间：2025/09/04
+- 地点：The University of Bristol · Bristol, UK · [STI-ENID 2025](https://www.stienid2025.org/)
 
 ## 垂直大模型的开发、应用与反思
 - 日期：2025/05/16
