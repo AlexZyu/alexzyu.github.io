@@ -1,5 +1,5 @@
 ---
-title: "[4] 2020-2022四川大学综合三等奖学金"
+title: "[4] 2021-2022年四川大学综合三等奖学金"
 excerpt: ""
 collection: portfolio
 ---
