@@ -27,10 +27,10 @@ redirect_from:
 
 实验室地址:南京大学仙林校区信息管理学院A311室
 
-Room A311, iSchool, Nanjing Univ., No. 163, Xianlin Avenue, Qixia District 
-
-Nanjing, China, 210023
+[中国人文社会科学评价国家创新基地](https://im.nju.edu.cn/1a/78/c13276a268920/page.htm)
 
 ---
 
-（更新于2025/09/04）
+[星星](./_DSC7202.jpeg)
+
+（更新于2025/09/22）
