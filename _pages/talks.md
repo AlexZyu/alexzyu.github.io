@@ -9,6 +9,10 @@ author_profile: true
 - 时间：2025/12/10 (Upcoming)
 - 地点：Hyatt Regency Crystal City · Virginia, USA · [2025 ASIS&T Annual Meeting](https://www.asist.org/meetings-events/am/am25/)
 
+## （生成式）人工智能参与科学研究及其评价的反思
+- 时间：2025/10/16
+- 地点：南京大学信息管理学院A211 · 信息管理学院首届研究生科研技能工作坊
+
 ## Beyond the Binary: The System of All-round Evaluation of Research and Its Practices in China
 - 时间：2025/09/04
 - 地点：The University of Bristol · Bristol, UK · [STI-ENID 2025](https://www.stienid2025.org/)
