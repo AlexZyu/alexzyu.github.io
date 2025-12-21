@@ -5,9 +5,17 @@ permalink: /talks/
 author_profile: true
 ---
 
+## GenAI助力社科论文写作与学术评价
+- 时间：2025/12/23
+- 地点：南京大学图书馆 · 江苏南京 · AI达人分享沙龙
+
 ## LISGPT: Research on the Construction of a Library and Information Science Academic LLM Based on the Boundary Knowledge Enhance Framework
-- 时间：2025/12/10 (Upcoming)
+- 时间：2025/11/14
 - 地点：Hyatt Regency Crystal City · Virginia, USA · [2025 ASIS&T Annual Meeting](https://www.asist.org/meetings-events/am/am25/)
+
+## 索引编制：理论、方法与智能化转向
+- 时间：2025/11/10
+- 地点：南京大学 · 江苏南京 · 目录学（2025秋-本科）
 
 ## （生成式）人工智能参与科学研究及其评价的反思
 - 时间：2025/10/16
@@ -44,7 +52,6 @@ author_profile: true
 ## 硕士学位论文索引编制方法
 - 日期：2023/12/11
 - 地点：南京大学 · 江苏南京 · 信息资源建设研究（2023秋）
-
 
 
 ---
