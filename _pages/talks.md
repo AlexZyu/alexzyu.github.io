@@ -74,12 +74,12 @@ author_profile: true
 ---
 
 # 参加会议
-## [2025 ASIS&T Annual Meeting](https://www.asist.org/meetings-events/am/am25/)(https://www.stienid2025.org/)
+## [2025 ASIS&T Annual Meeting](https://www.asist.org/meetings-events/am/am25/)
 - 时间：2025/11/14-2025/11/18
 - 地点：Washington, USA
-- 主办单位：Association for Information Science and Technology
+- 主办单位：Association for Information Science & Technology
 
-## [29th Annual International Conference on Science and Technology Indicators](https://www.stienid2025.org/)
+## [29th Annual International Conference on Science & Technology Indicators](https://www.stienid2025.org/)
 - 时间：2025/09/03-2025/09/06
 - 地点：Bristol, UK
 - 主办单位：International Society for Scientometrics and Informetrics (ISSI) & Network of Indicator Designers (ENID)
