@@ -12,7 +12,7 @@ redirect_from:
 
 他曾获研究生国家奖学金、南京大学优秀研究生标兵和德国马克斯·普朗克学会博士奖学金等奖励，并入选2025年度中国科协青年科技人才培育工程博士生专项计划。
 
-他目前已在*JASIS&T*，*Information Processing & Management*，*Scientometrics*，《情报学报》《图书情报知识》等期刊[发表学术论文10余篇](/publications/)，并担任*IP&M*, *Scientometrics*, *IEEE Transactions on Engineering Management*, *Heliyon*, *Research Methods in Applied Linguistics*和*Intelligent Systems with Applications*等国际期刊审稿人。
+他目前已在*JASIS&T*，*Information Processing & Management*，*Scientometrics*，《情报学报》《图书情报知识》等期刊[发表学术论文20余篇](/publications/)，并担任*IP&M*, *Scientometrics*, *IEEE Transactions on Engineering Management*, *Heliyon*, *Research Methods in Applied Linguistics*和*Intelligent Systems with Applications*等国际期刊审稿人。
 
 他同时是中国图书馆学会、中国索引学会、中国科学学与科技政策研究会以及国际信息科学与技术协会（ASIS&T）的会员。
 
