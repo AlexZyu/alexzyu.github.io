@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+## AI生成学术评价内容能否缓解“过分人情化”困境？基于专家信息采纳机制的实验研究
+- 时间：2026/05/17
+- 地点：北京大学 · 北京 · 第十九届全国图书馆学博士生学术论坛
+
 ## GenAI助力人文社会科学研究及其评价：理念与方法
 - 时间：2025/12/23
 - 地点：南京大学新闻传播学院 · 江苏南京 · 紫金学术坊
@@ -82,6 +86,22 @@ author_profile: true
 ---
 
 # 参加会议
+
+## 中外图书馆馆长论坛、第八届信息技术与教育会议、第十九届全国图书馆学博士生学术论坛
+- 时间：2026/05/15-2026/05/17
+- 地点：北京
+- 主办单位：北京大学
+
+## Chinese–European Science and Technology Collaboration in Dynamic Times
+- 时间：2026/05/14
+- 地点：上海
+- 主办单位：Nordic Centre, Fudan University
+
+## 第五届全民阅读大会图书馆全民阅读论坛
+- 时间：2026/04/20
+- 地点：江西南昌
+- 主办单位：文化和旅游部公共服务司、中国图书馆学会、 国家图书馆
+
 ## [2025 ASIS&T Annual Meeting](https://www.asist.org/meetings-events/am/am25/)
 - 时间：2025/11/14-2025/11/18
 - 地点：Washington, USA
