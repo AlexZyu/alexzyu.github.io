@@ -43,6 +43,25 @@ redirect_from:
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+
+同行评议
+===
+
+（按最早年）
+
+* 2025
+  * Information Processing & Management
+  * Heliyon
+  * Transactions on Engineering Management
+  * Intelligent Systems with Applications
+  * Scientometrics
+* 2026
+  * Journal of Data and Information Science
+  * Research Methods in Applied Linguistics
+  * Journal of Librarianship & Information Science
+  * 2026 ASIS&T Annal Meeting
+  * Frontiers in Artificial Intelligence (Technology and Law section)
   
 <!-- 工作经历
 ======
