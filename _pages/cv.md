@@ -60,7 +60,7 @@ redirect_from:
   * Journal of Data and Information Science
   * Research Methods in Applied Linguistics
   * Journal of Librarianship & Information Science
-  * 2026 ASIS&T Annal Meeting
+  * Annual Meeting of the Association for Information Science & Technology (ASIS&T)
   * Frontiers in Artificial Intelligence (Technology and Law section)
   
 <!-- 工作经历

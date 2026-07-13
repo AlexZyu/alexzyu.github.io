@@ -1,5 +1,5 @@
 ---
-title: "[12] 马克思·普朗克固体研究所博士奖学金"
+title: "[12] 马克斯·普朗克固态研究所博士奖学金"
 excerpt: ""
 collection: portfolio
 ---
