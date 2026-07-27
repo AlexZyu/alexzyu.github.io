@@ -1,5 +1,5 @@
 # main links links
-main:
+main_zh:
   - title: "发表论文"
     url: /publications/
 
@@ -20,6 +20,22 @@ main:
 
   - title: "CV"
     url: /cv/
+
+main_en:
+  - title: "Publications"
+    url: /en/publications/
+
+  - title: "Research"
+    url: /en/research/
+
+  - title: "Awards"
+    url: /en/portfolio/
+
+  - title: "Talks"
+    url: /en/talks/
+
+  - title: "CV"
+    url: /en/cv/
 
 
 

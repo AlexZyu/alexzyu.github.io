@@ -11,6 +11,19 @@
 {% else %}
   {% assign title = post.title %}
 {% endif %}
+{% if page.lang == "en" and post.title_en %}
+  {% assign title = post.title_en | markdownify | remove: "<p>" | remove: "</p>" %}
+{% endif %}
+{% if page.lang == "en" and post.url_en %}
+  {% assign item_url = post.url_en %}
+{% else %}
+  {% assign item_url = post.url %}
+{% endif %}
+{% if page.lang == "en" %}
+  {% assign item_excerpt = post.excerpt_en %}
+{% else %}
+  {% assign item_excerpt = post.excerpt %}
+{% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
@@ -28,9 +41,9 @@
 
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ item_url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        <a href="{{ base_path }}{{ item_url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
     
@@ -41,21 +54,21 @@
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
-          <p>发表于 <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p>{% if page.lang == "en" %}Published in{% else %}发表于{% endif %} <i>{% if page.lang == "en" and post.venue_en %}{{ post.venue_en }}{% else %}{{ post.venue }}{% endif %}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
 
-    {% if post.excerpt and site.read_more != 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
-    {% elsif post.excerpt and site.read_more == 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+    {% if item_excerpt and site.read_more != 'enabled' %}
+    <p class="archive__item-excerpt" itemprop="description">{{ item_excerpt | markdownify }}</p>
+    {% elsif item_excerpt and site.read_more == 'enabled' %}
+    <p class="archive__item-excerpt" itemprop="description"><p>{{ item_excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ item_url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
     {% if post.citation and post.paperurl %}
-      <p>引用本文: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p><hr>
+      <p>{% if page.lang == "en" %}Citation: {{ post.citation_en | default: post.citation }}{% else %}引用本文: {{ post.citation }}{% endif %} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p><hr>
     {% elsif post.citation %}
-      <p>引用本文: {{ post.citation }} </p><hr>
+      <p>{% if page.lang == "en" %}Citation: {{ post.citation_en | default: post.citation }}{% else %}引用本文: {{ post.citation }}{% endif %} </p><hr>
     {% elsif post.paperurl %}
       <p>下载本文 <a href=" {{ post.paperurl }} "><u>here</u></a></p><hr>
     {% endif %}

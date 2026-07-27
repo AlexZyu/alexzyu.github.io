@@ -3,6 +3,20 @@ layout: archive
 title: "发表论文"
 permalink: /publications/
 author_profile: true
+lang: zh
+translation_url: /en/publications/
+title_en: "Publications"
+translation_key: "page-publications"
+body_en: |
+  ## Acknowledged Contributions
+  
+  In addition to the publications listed above, I contributed to the following papers. Although I was not formally listed as an author for various reasons, my contributions were acknowledged in the acknowledgements section.
+  
+  [1] Zhao, L. (2024). Digitally Representing Places: The Reproduction of Destination Images through Video Big Data. *Journal of Guizhou Minzu University (Philosophy and Social Sciences)*, (3), 132-147.
+  
+  [2] Ye, J. (2025). Exploring the Concept of Information Resources and Its Logical Relationships with Information, Data, Knowledge, and Related Concepts. *Journal of the China Society for Scientific and Technical Information*, 44(1), 93-102.
+  
+  [3] Ye, J. (2025). Problems and Approaches in Developing a Chinese-Style Evaluation System for Philosophy and Social Sciences from the Perspective of the All-round Evaluation of Research. *Library Work and Study*, (1), 5-15.
 ---
 
 {% if author.googlescholar %}

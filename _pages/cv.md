@@ -3,8 +3,63 @@ layout: archive
 title: "简历"
 permalink: /cv/
 author_profile: true
+lang: zh
+translation_url: /en/cv/
 redirect_from:
   - /resume
+title_en: "CV"
+translation_key: "page-cv"
+body_en_before_publications: |
+  [Download the English CV](/CV-YuZhu-NJU.pdf)
+  
+  Education
+  ======
+  
+  * Ph.D. in Management, Information Resources Management (Library Science track), 2023-2029 (expected) @ School of Information Management, Nanjing University
+  * Bachelor of Management, Information Resources Management, 2019-2023 @ School of Public Administration, Sichuan University
+  * Visiting Scholar, Research Evaluation, July-September 2025 @ Information Service CPT, Max Planck Institute for Solid State Research
+  * Visiting Scholar, Research Evaluation, August 2026-February 2027 @ Dietrich College of Humanities and Social Sciences, Carnegie Mellon University
+  
+  Professional Experience
+  ======
+  
+  * July-August 2024: Editorial Department of *New Century Library*, Nanjing Library
+  * September 2022-January 2023: Research and Development Center, Sichuan University Library / Secretariat of the Sichuan Academic Library and Information Work Committee (CALIS Southwest Regional Center / CASHL Southwest Regional Center / CADAL Southwest Regional Center)
+  * March 2022-January 2023: Chengdu Library and Information Center, Chinese Academy of Sciences
+  * August 2020-January 2022: Beijing ByteDance Technology Co., Ltd.
+  
+  Student Organization Experience
+  ======
+  
+  * September 2023-present: Event Planning Department, Nanjing University Library Student Development Association
+  * September 2019-June 2021: Publicity Department, Sichuan University Library Volunteer Team
+body_en_after_publications: |
+  Peer Review
+  ===
+  
+  (Listed by the first year of service)
+  
+  * 2025
+    * Information Processing & Management
+    * Heliyon
+    * IEEE Transactions on Engineering Management
+    * Intelligent Systems with Applications
+    * Scientometrics
+  * 2026
+    * Journal of Data and Information Science
+    * Research Methods in Applied Linguistics
+    * Journal of Librarianship & Information Science
+    * Annual Meeting of the Association for Information Science & Technology (ASIS&T)
+    * Frontiers in Artificial Intelligence (Technology and Law section)
+    * The Journal of Academic Librarianship
+  
+  Other Activities
+  ======
+  
+  * Member, The China Society of Indexers (2022-present)
+  * Member, The Chinese Association of Science of Science and S&T Policy Research (2023-present)
+  * Member, Association for Information Science & Technology (2025-present)
+  * Member, Library Society of China (2026-2028)
 ---
 
 {% include base_path %}
@@ -62,6 +117,7 @@ redirect_from:
   * Journal of Librarianship & Information Science
   * Annual Meeting of the Association for Information Science & Technology (ASIS&T)
   * Frontiers in Artificial Intelligence (Technology and Law section)
+  * The Journal of Academic Librarianship
   
 <!-- 工作经历
 ======

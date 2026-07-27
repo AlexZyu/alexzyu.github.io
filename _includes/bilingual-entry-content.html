@@ -1,0 +1,8 @@
+{% assign bilingual_items = site[page.source_collection] %}
+{% assign bilingual_candidates = bilingual_items | where: "translation_key", page.translation_key %}
+{% assign bilingual_source = bilingual_candidates | where: "lang", "zh" | first %}
+{% assign bilingual_field = include.field | default: "body_en" %}
+{% assign bilingual_body = bilingual_source[bilingual_field] %}
+{% if bilingual_source and bilingual_body %}
+  {{ bilingual_body | markdownify }}
+{% endif %}

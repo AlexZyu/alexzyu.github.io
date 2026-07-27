@@ -3,6 +3,201 @@ layout: archive
 title: "报告"
 permalink: /talks/
 author_profile: true
+lang: zh
+translation_url: /en/talks/
+title_en: "Talks"
+translation_key: "page-talks"
+body_en: |
+  ## Can AI-Generated Research Evaluation Content Alleviate the Problem of Overreliance on Personal Relationships? An Experimental Study of Experts' Information Adoption Mechanisms
+  - Date: May 17, 2026
+  - Venue: Peking University · Beijing, China · 19th National Doctoral Forum on Library Science
+  
+  ## GenAI for Humanities and Social Science Research and Evaluation: Concepts and Methods
+  - Date: April 1, 2026
+  - Venue: School of Journalism and Communication, Nanjing University · Nanjing, China · Zijin Academic Forum
+  
+  ## An Overview of Public Libraries in Germany
+  - Date: March 24, 2026
+  - Venue: Nanjing University · Nanjing, China · Library Management (Spring 2026, undergraduate course)
+  
+  ## GenAI for Social Science Paper Writing and Research Evaluation
+  - Date: December 23, 2025
+  - Venue: Nanjing University Library · Nanjing, China · AI Expert Sharing Salon
+  
+  ## LISGPT: Research on the Construction of a Library and Information Science Academic LLM Based on the Boundary Knowledge Enhance Framework
+  - Date: November 14, 2025
+  - Venue: Hyatt Regency Crystal City · Virginia, USA · [2025 ASIS&T Annual Meeting](https://www.asist.org/meetings-events/am/am25/)
+  
+  ## Indexing: Theory, Methods, and the Intelligent Turn
+  - Date: November 10, 2025
+  - Venue: Nanjing University · Nanjing, China · Bibliography (Fall 2025, undergraduate course)
+  
+  ## Reflections on (Generative) Artificial Intelligence in Scientific Research and Evaluation
+  - Date: October 16, 2025
+  - Venue: Room A211, School of Information Management, Nanjing University · First Graduate Research Skills Workshop
+  
+  ## Beyond the Binary: The System of All-round Evaluation of Research and Its Practices in China
+  - Date: September 4, 2025
+  - Venue: The University of Bristol · Bristol, UK · [STI-ENID 2025](https://www.stienid2025.org/)
+  
+  ## Development, Application, and Reflection on Domain-Specific Large Language Models
+  - Date: May 16, 2025
+  - Venue: Nanjing Agricultural University · Nanjing, China
+  
+  ## The Definition of AIGC and Its Impact on Digital Libraries
+  - Date: November 26, 2024
+  - Venue: Nanjing University · Nanjing, China · Digital Library Technology and Management (Fall 2024)
+  
+  ## Conducting Research through Observation and Reflection
+  - Date: November 20, 2024
+  - Venue: Reference Room, School of Information Management, Nanjing University · Peer Leadership and Research Innovation Sharing Salon
+  
+  ## Exploring the Principles and Models of Human-AI Interaction in Index/Database Indexing
+  - Date: October 25, 2024
+  - Venue: Peking University Library · Beijing, China · 2024 International Symposium on Indexing and Annual Conference of the China Society of Indexers
+  
+  ## AI-Generated Content (AIGC) in Library Science: Conceptual Framework and Research Agenda
+  - Date: September 20, 2024
+  - Venue: Suzhou Library North Branch · Suzhou, China · 17th National Doctoral Forum on Library Science
+  
+  ## Generative AI-Driven Indexing and Its Application in Academic Norms and Evaluation
+  - Date: April 14, 2024
+  - Venue: Hangzhou Dianzi University · Hangzhou, China · 1st National Annual Conference on Information Resources Management and Doctoral Forum
+  
+  ## Methods for Compiling Indexes for Master's Theses
+  - Date: December 11, 2023
+  - Venue: Nanjing University · Nanjing, China · Information Resources Development Research (Fall 2023)
+  
+  ---
+  
+  # Teaching Assistance
+  
+  ## Fall 2025: Information Resources Development Research
+  Required course for first-year academic master's students in the Library Science track and second-year Master of Library and Information Studies students; also open to all university students.
+  
+  ## Spring 2025: Information Resources Development
+  Required course for second-year undergraduate Library Science students; also open to all university students.
+  
+  ## Fall 2024: Research Integrity and Academic Norms
+  Required course for second-year doctoral students in Information Resources Management; also open to all university students.
+  
+  ## Fall 2024: Information Resources Development Research
+  Required course for first-year academic master's students in the renamed Information Resources Management discipline's Library Science track and second-year Master of Library and Information Studies students; also open to all university students.
+  
+  ## Spring 2024: Information Resources Development
+  Required course for second-year undergraduate Library Science students; also open to all university students.
+  
+  ## Fall 2023: Information Resources Development Research
+  Required course for first-year academic master's students in the Library Science track of Library, Information and Archives Management and second-year Master of Library and Information Studies students; also open to all university students.
+  
+  ---
+  
+  # Conferences Attended
+  
+  ## 2026 Annual Conference of the Chinese Society for Scientific and Technical Information and Forum on the Development of Information Science and Services
+  - Date: July 18-20, 2026
+  - Location: Nanjing, Jiangsu, China
+  - Organizers: Chinese Society for Scientific and Technical Information; Nanjing University
+  - Hosts: School of Information Management, Nanjing University; Jiangsu Institute of Scientific and Technical Information
+  
+  ## 2026 Annual Conference of the Special Committee on Academic Evaluation, Norms and Data Ethics of the China Society of Indexers
+  - Date: July 15-17, 2026
+  - Location: Suzhou, Jiangsu, China
+  - Organizer: The China Society of Indexers
+  - Hosts: Special Committee on Academic Evaluation, Norms and Data Ethics of the China Society of Indexers; School of Information Management, Nanjing University
+  
+  ## 4th China-Russia Library Forum
+  - Date: June 1-3, 2026
+  - Location: Chengdu, Sichuan, China
+  - Organizers: National Library of China; Russian State Library
+  - Host: Sichuan Provincial Library
+  
+  ## China-Foreign Library Directors Forum, 8th Information Technology and Education Conference, and 19th National Doctoral Forum on Library Science
+  - Date: May 15-17, 2026
+  - Location: Beijing, China
+  - Organizer: Department of Information Management, Peking University
+  
+  ## Chinese-European Science and Technology Collaboration in Dynamic Times
+  - Date: May 14, 2026
+  - Location: Shanghai, China
+  - Organizer: Nordic Centre, Fudan University
+  
+  ## Library Forum of the 5th National Reading Conference
+  - Date: April 20, 2026
+  - Location: Nanchang, Jiangxi, China
+  - Organizers: Department of Public Services, Ministry of Culture and Tourism; Library Society of China; National Library of China
+  
+  ## [2025 ASIS&T Annual Meeting](https://www.asist.org/meetings-events/am/am25/)
+  - Date: November 14-18, 2025
+  - Location: Washington, USA
+  - Organizer: Association for Information Science & Technology
+  
+  ## [29th Annual International Conference on Science & Technology Indicators](https://www.stienid2025.org/)
+  - Date: September 3-6, 2025
+  - Location: Bristol, UK
+  - Organizers: International Society for Scientometrics and Informetrics (ISSI) and Network of Indicator Designers (ENID)
+  - Host: The University of Bristol
+  
+  ## “Harnessing Collections with Intelligence: Libraries in the Age of Artificial Intelligence” Symposium
+  - Date: June 20-22, 2025
+  - Location: Shanghai, China
+  - Organizers: Faculty of Economics and Management, East China Normal University; Editorial Office of the *Journal of Library Science in China*
+  - Co-organizer: National Laboratory for Intelligent Evaluation and Governance, Fudan University
+  
+  ## Inaugural Meeting of the Special Committee on Academic Evaluation, Norms and Data Ethics of the China Society of Indexers and Symposium on Chinese-Style and Intelligent Research Evaluation and Its Governance
+  - Date: March 28-30, 2025
+  - Location: Nanjing, Jiangsu, China
+  - Organizer: The China Society of Indexers
+  - Host: School of Information Management, Nanjing University (our research group)
+  
+  ## 2024 Information Behavior Annual Conference of the Chinese Society for Scientific and Technical Information
+  - Date: December 7-8, 2024
+  - Location: Nanjing, Jiangsu, China
+  - Organizer: Information Behavior Committee, Chinese Society for Scientific and Technical Information
+  - Host: School of Information Management, Nanjing University
+  
+  ## 8th China Research Evaluation Forum 2024
+  - Date: November 29-30, 2024
+  - Location: Shanghai, China
+  - Organizer: Book and Newspaper Information Center, Renmin University of China
+  - Host: National Laboratory for Intelligent Evaluation and Governance, Fudan University
+  
+  ## 2024 International Symposium on Indexing and Annual Conference of the China Society of Indexers
+  - Date: October 24-26, 2024
+  - Location: Beijing, China
+  - Organizer: The China Society of Indexers
+  - Hosts: Peking University Library; Fudan University Library
+  
+  ## Nanjing Forum 2024
+  - Session 3: AI-Driven Digital Transformation in the Asia-Pacific Region
+  - Date: October 19-20, 2023
+  - Location: Nanjing, Jiangsu, China
+  - Organizers: Nanjing University; Chey Institute for Advanced Studies; School of Information Management, Nanjing University
+  
+  ## 17th National Doctoral Forum on Library Science
+  - Date: September 19-20, 2024
+  - Location: Suzhou, Jiangsu, China
+  - Organizer: Department of Information Management, Peking University
+  
+  ## “Public Libraries and Modern Civilization” Symposium
+  - Date: September 19-20, 2024
+  - Location: Suzhou, Jiangsu, China
+  - Organizers: Department of Information Management, Peking University; Suzhou Library; Library Society of Suzhou; Ministry of Education Virtual Teaching and Research Section for Reforming Library Science Talent Development Models
+  
+  ## Symposium on “Reconsidering Library Professionalization in Light of Contemporary Developments and Practical Needs”
+  - Date: June 15-16, 2024
+  - Location: Nanjing, Jiangsu, China
+  - Organizers: Center for Humanities and Social Computing, Nanjing Agricultural University; Editorial Office of the *Journal of Library Science in China*
+  
+  ## 1st National Annual Conference on Information Resources Management and Doctoral Forum
+  - Date: April 13-14, 2024
+  - Location: Hangzhou, Zhejiang, China
+  - Organizer: Chinese Academy of Science and Education Evaluation, Hangzhou Dianzi University
+  
+  ## 14th National Symposium on Knowledge Organization and Knowledge Services
+  - Date: October 17-18, 2023
+  - Location: Nanjing, Jiangsu, China
+  - Organizer: School of Information Management, Nanjing University
 ---
 
 ## AI生成学术评价内容能否缓解“过分人情化”困境？基于专家信息采纳机制的实验研究
@@ -87,15 +282,33 @@ author_profile: true
 
 # 参加会议
 
+## 2026年中国情报学年会暨情报学与情报⼯作发展论坛
+- 时间：2026/07/18-2026/07/20
+- 地点：江苏南京
+- 主办单位：中国科学技术情报学会、南京大学
+- 承办单位：南京大学信息管理学院、江苏省科学情报研究所
+
+## 2026年中国索引学会学术评价、规范与数据伦理专业委员会学术年会
+- 时间：2026/07/15-2026/07/17
+- 地点：江苏苏州
+- 主办单位：中国索引学会
+- 承办单位：中国索引学会学术评价、规范与数据伦理专业委员会；南京大学信息管理学院
+
+## 第四届中俄图书馆论坛
+- 时间：2026/06/01-2026/06/03
+- 地点：四川成都
+- 主办单位：中国国家图书馆、俄罗斯国立图书馆
+- 承办单位：四川省图书馆
+
 ## 中外图书馆馆长论坛、第八届信息技术与教育会议、第十九届全国图书馆学博士生学术论坛
 - 时间：2026/05/15-2026/05/17
 - 地点：北京
-- 主办单位：北京大学
+- 主办单位：北京大学信息管理系
 
 ## Chinese–European Science and Technology Collaboration in Dynamic Times
 - 时间：2026/05/14
 - 地点：上海
-- 主办单位：Nordic Centre, Fudan University
+- 主办单位：复旦大学北欧中心
 
 ## 第五届全民阅读大会图书馆全民阅读论坛
 - 时间：2026/04/20

@@ -1,7 +1,20 @@
 ---
 title: "[9] 2024年首届信息资源管理年会暨博士生学术论坛优秀论文一等奖"
+title_en: "[9] First Prize for Outstanding Paper, 1st National Annual Conference on Information Resources Management and Doctoral Forum, 2024"
+url_en: /en/portfolio/portfolio-09/
 excerpt: ""
 collection: portfolio
+lang: zh
+translation_url: /en/portfolio/portfolio-09/
+translation_key: portfolio-portfolio-09
+body_en: |
+  April 14, 2024, Hangzhou, China
+  
+  The paper, “Generative AI-Driven Indexing and Its Application in Academic Norms and Evaluation,” received first prize for outstanding papers (3 of 449 submissions, 0.67%) and was invited for presentation.
+  
+  [About the conference](https://mp.weixin.qq.com/s/R9FXO8p12GiWQ7Y_SOQ32g)
+  
+  [Conference review](https://kns.cnki.net/kcms2/article/abstract?v=Z-eERPAUDzxiuKsb00cv8t7jGve7qShqfwLMsTK8Qvnrk0QGeKeidPEw1hKsg03lRHbtGcJqwU574l2LR189IAIvKzUYMqf7560vnSDHD7wpAUTokgKpd3hQ0u9Ro857HfQhEIPtkduP_Jx6qvXsDwUkcCUC4drbRAejWfHXzGqLO9oGGXujKX5tmqrNZOmT&uniplatform=NZKPT&language=CHS)
 ---
 
 2024.4.14，杭州

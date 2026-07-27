@@ -8,9 +8,11 @@
 # Site Settings
 locale                   : "zh-CN"
 title                    : "朱禹（ZHU Yu）"
+title_en                 : "ZHU Yu"
 title_separator          : "-"
 name                     : &name "朱禹"
 description              : &description "南京大学信息管理学院"
+description_en           : "School of Information Management, Nanjing University"
 url                      : https://alexzyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AlexZyu/alexzyu.github.io"
@@ -115,6 +117,17 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+
+# English author-profile text. Links are inherited from `author` so they only
+# need to be maintained once.
+author_en:
+  name             : "ZHU Yu"
+  bio              : "Ph.D. Candidate in Library Science"
+  location         : "Nanjing, China"
+  employer         : "School of"
+  employer_line_2  : "Information"
+  employer_line_3  : "Management,"
+  employer_line_4  : "Nanjing University"
 
 
 # Reading Files

@@ -1,0 +1,15 @@
+---
+layout: archive
+permalink: /en/portfolio/
+author_profile: true
+lang: en
+translation_url: /portfolio/
+source_collection: pages
+translation_key: page-portfolio
+---
+
+{% include base_path %}
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}

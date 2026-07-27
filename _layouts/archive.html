@@ -2,6 +2,14 @@
 layout: default
 ---
 
+{% assign display_title = page.title %}
+{% if page.lang == "en" and page.source_collection and page.translation_key %}
+  {% assign bilingual_items = site[page.source_collection] %}
+  {% assign bilingual_candidates = bilingual_items | where: "translation_key", page.translation_key %}
+  {% assign bilingual_source = bilingual_candidates | where: "lang", "zh" | first %}
+  {% if bilingual_source.title_en %}{% assign display_title = bilingual_source.title_en %}{% endif %}
+{% endif %}
+
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
 {% endif %}
@@ -17,7 +25,7 @@ layout: default
 
   <div class="archive">
     {% unless page.header.overlay_color or page.header.overlay_image %}
-      <h1 class="page__title">{{ page.title }}</h1>
+      <h1 class="page__title">{{ display_title }}</h1>
     {% endunless %}
     {{ content }}
   </div>

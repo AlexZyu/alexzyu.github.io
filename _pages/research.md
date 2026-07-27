@@ -3,6 +3,38 @@ layout: archive
 title: "研究方向"
 permalink: /research/
 author_profile: true
+lang: zh
+translation_url: /en/research/
+title_en: "Research"
+translation_key: "page-research"
+body_en: |
+  {% if author.googlescholar %}
+    You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  {% endif %}
+  
+  {% include base_path %}
+  
+  {% for post in site.research reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+  
+  ## Research Interests
+  
+  1. (Intelligent) research evaluation
+  2. AIGC theory and methods
+  3. Indexing theory and practice
+  
+  ## Research Projects
+  
+  1. Postgraduate Research and Practice Innovation Program of Jiangsu Province, “The Logic and Implementation Pathways of Generative AI-Assisted Evaluation in Philosophy and Social Sciences from the Perspective of the All-round Evaluation of Research,” 2026-present, Principal Investigator
+  2. Postgraduate Research and Practice Innovation Program of Jiangsu Province, “Construction and Validation of a Generative AI-Driven All-round Evaluation Model for Philosophy and Social Sciences” (KYCX25_0130), 2025-2026, completed, Principal Investigator
+  3. 2025 Teaching Reform Research Project of the Jiangsu Academic Library and Information Work Committee, “Development and Evaluation Strategies for an Artificial Intelligence Literacy Education System in Higher Education” (2025JTZD06), 2025-present, Participant
+  4. Major Project of the National Social Science Fund of China, “Research on Developing a Chinese-Style Evaluation System for Philosophy and Social Sciences from the Perspective of the All-round Evaluation of Research” (24&ZD323), 2024-present, Participant
+  5. Major Research Project of Nanjing University's Leading Program for Developing an Autonomous Knowledge System in Philosophy and Social Sciences with Chinese Characteristics, “Research on Developing an Autonomous Knowledge System and Academic Evaluation System for Chinese Library and Information Science Based on an Original Conceptual System” (202430059), 2024-present, Participant
+  6. Major Project of the National Social Science Fund of China, “Research on Reconstructing China's Document and Information Resources Guarantee System in the New Era” (19ZDA346), 2023-2024, Participant
+  7. Sichuan University Higher Education Teaching Reform Project (10th Round), “Research and Practice on Developing Future Learning Centers for Digital Transformation” (SCU10015), 2023, Participant
+  8. Western Project of the National Social Science Fund of China, “Re-examining Patent Citation Relationships and Their Evaluative Significance from the Perspective of Innovation Economics” (20XTQ008), 2021-2022, Participant
+  9. 2021 Soft Science Program of the Science and Technology Department of Sichuan Province, “Research on Collaborative Strategies for Scientific and Technological Innovation among University Alliances in the Chengdu-Chongqing Economic Circle,” 2022, Participant
 ---
 
 {% if author.googlescholar %}
