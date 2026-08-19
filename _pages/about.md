@@ -17,7 +17,7 @@ body_en: |
   
   He has [published more than 20 academic papers](/en/publications/) in journals such as the *Journal of the Association for Information Science and Technology*, *Information Processing & Management*, *Scientometrics*, *Journal of the China Society for Scientific and Technical Information*, and *Documentation, Information & Knowledge*. He also serves as a reviewer for *Information Processing & Management*, *Scientometrics*, *Journal of Data and Information Science*, *IEEE Transactions on Engineering Management*, *Heliyon*, *Research Methods in Applied Linguistics*, and *Intelligent Systems with Applications*.
   
-  He is a member of the Library Society of China, the China Society of Indexers, the Chinese Association of Science of Science and S&T Policy Research, and the Association for Information Science and Technology (ASIS&T).
+  He is a member of the Library Society of China, the China Society of Indexers, the Chinese Association of Science of Science and S&T Policy Research, the Association for Information Science and Technology (ASIS&T), and ACM Special Interest Group on Information Retrieval (ACM SIGIR).
   
   For more information about his research, please visit his [ResearchGate profile](https://www.researchgate.net/profile/Zhu-Yu-31) (English) or [CNKI Scholar profile](https://au.cnki.net/author/personalInfo/000056113681) (Chinese).
   
@@ -40,7 +40,7 @@ body_en: |
 
 他目前已在*JASIS&T*，*Information Processing & Management*，*Scientometrics*，《情报学报》《图书情报知识》等期刊[发表学术论文20余篇](/publications/)，并担任*IP&M*, *Scientometrics*, *Journal of Data and Information Science (JDIS)*, *IEEE Transactions on Engineering Management*, *Heliyon*, *Research Methods in Applied Linguistics*和*Intelligent Systems with Applications*等国际期刊审稿人。
 
-他同时是中国图书馆学会、中国索引学会、中国科学学与科技政策研究会以及国际信息科学与技术协会（ASIS&T）的会员。
+他同时是中国图书馆学会、中国索引学会、中国科学学与科技政策研究会、国际信息科学与技术协会（ASIS&T）以及ACM 信息检索特别兴趣组（ACM SIGIR）的会员。
 
 如需了解更多研究成果，欢迎访问其[ResearchGate](https://www.researchgate.net/profile/Zhu-Yu-31)（英文）或[CNKI学者主页](https://au.cnki.net/author/personalInfo/000056113681)（中文）。
 

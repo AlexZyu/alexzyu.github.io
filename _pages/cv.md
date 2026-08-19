@@ -51,7 +51,6 @@ body_en_after_publications: |
     * Journal of Librarianship & Information Science
     * Annual Meeting of the Association for Information Science & Technology (ASIS&T)
     * Frontiers in Artificial Intelligence (Technology and Law section)
-    * The Journal of Academic Librarianship
   
   Other Activities
   ======
@@ -60,6 +59,7 @@ body_en_after_publications: |
   * Member, The Chinese Association of Science of Science and S&T Policy Research (2023-present)
   * Member, Association for Information Science & Technology (2025-present)
   * Member, Library Society of China (2026-2028)
+  * Member, ACM Special Interest Group on Information Retrieval (2026-)
 ---
 
 {% include base_path %}
@@ -117,7 +117,6 @@ body_en_after_publications: |
   * Journal of Librarianship & Information Science
   * Annual Meeting of the Association for Information Science & Technology (ASIS&T)
   * Frontiers in Artificial Intelligence (Technology and Law section)
-  * The Journal of Academic Librarianship
   
 <!-- 工作经历
 ======
@@ -131,3 +130,4 @@ body_en_after_publications: |
 * 中国科学学与科技政策研究会会员（2023-）
 * 国际信息科学与技术协会会员（2025-）
 * 中国图书馆学会会员（2026-2028）
+* ACM信息检索特别兴趣组（2026-）
