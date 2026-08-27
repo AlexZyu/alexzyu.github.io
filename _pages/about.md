@@ -11,11 +11,11 @@ redirect_from:
 title_en: "About ZHU Yu"
 translation_key: "page-about"
 body_en: |
-  ZHU Yu is a doctoral student in Information Resources Management (Library Science track) at the [School of Information Management, Nanjing University](https://im.nju.edu.cn). He is enrolled in an integrated master's-to-doctoral program (2023-2029) under the supervision of [Prof. Jiyuan Ye](https://im.nju.edu.cn/info/1130/33511.htm). His research focuses on **intelligent research evaluation** and **information resources development** in the context of AI-generated content (AIGC).
+  ZHU Yu is a doctoral student in Information Resources Management (Library Science track) at the [School of Information Management, Nanjing University](https://im.nju.edu.cn). He is enrolled in an integrated master's-to-doctoral program (2023-2029) under the supervision of [Prof. Jiyuan Ye](https://im.nju.edu.cn/info/1130/33511.htm) and [Prof. Huan Xie](https://im.nju.edu.cn/info/1129/32791.htm). His research focuses on **intelligent research evaluation** and **information resources construction** in the context of AI-generated content (AIGC).
   
   He has received the National Scholarship for Postgraduates, Nanjing University's Outstanding Postgraduate Model Award, and a doctoral fellowship from the Max Planck Society. He was also selected for the 2025 Doctoral Fellowship under the Young Scientific Talent Cultivation Program of the China Association for Science and Technology.
   
-  He has [published more than 20 academic papers](/en/publications/) in journals such as the *Journal of the Association for Information Science and Technology*, *Information Processing & Management*, *Scientometrics*, *Journal of the China Society for Scientific and Technical Information*, and *Documentation, Information & Knowledge*. He also serves as a reviewer for *Information Processing & Management*, *Scientometrics*, *Journal of Data and Information Science*, *IEEE Transactions on Engineering Management*, *Heliyon*, *Research Methods in Applied Linguistics*, and *Intelligent Systems with Applications*.
+  He has [published 20+ academic papers](/en/publications/) in journals such as the *Journal of the Association for Information Science and Technology*, *Information Processing & Management*, *Scientometrics*, *Journal of the China Society for Scientific and Technical Information*, and *Documentation, Information & Knowledge*. He also serves as a reviewer for *Information Processing & Management*, *Scientometrics*, *Journal of Data and Information Science*, *IEEE Transactions on Engineering Management*, *Heliyon*, *Research Methods in Applied Linguistics*, and *Intelligent Systems with Applications*.
   
   He is a member of the Library Society of China, the China Society of Indexers, the Chinese Association of Science of Science and S&T Policy Research, the Association for Information Science and Technology (ASIS&T), and ACM Special Interest Group on Information Retrieval (ACM SIGIR).
   
@@ -34,7 +34,7 @@ body_en: |
   (Last updated: July 13, 2026)
 ---
 
-朱禹目前就读于[南京大学信息管理学院](https://im.nju.edu.cn)，正在攻读信息资源管理（图书馆学方向）博士学位（硕博连读，2023-2029），师从[叶继元教授](https://im.nju.edu.cn/info/1130/33511.htm)。其研究聚焦于人工智能生成内容（AI Generated Content）背景下的**智能学术评价**与**信息资源建设**。
+朱禹目前就读于[南京大学信息管理学院](https://im.nju.edu.cn)，正在攻读信息资源管理（图书馆学方向）博士学位（硕博连读，2023-2029），师从[叶继元教授](https://im.nju.edu.cn/info/1130/33511.htm)和[谢欢教授](https://im.nju.edu.cn/info/1129/32791.htm)。其研究聚焦于人工智能生成内容（AI Generated Content）背景下的**智能学术评价**与**信息资源建设**。
 
 他曾获研究生国家奖学金、南京大学优秀研究生标兵和德国马克斯·普朗克学会博士奖学金等奖励，并入选2025年度中国科协青年科技人才培育工程博士生专项计划。
 

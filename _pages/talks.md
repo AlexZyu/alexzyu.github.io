@@ -66,28 +66,28 @@ body_en: |
   
   ## Methods for Compiling Indexes for Master's Theses
   - Date: December 11, 2023
-  - Venue: Nanjing University · Nanjing, China · Information Resources Development Research (Fall 2023)
+  - Venue: Nanjing University · Nanjing, China · Information Resources Construction Research (Fall 2023)
   
   ---
   
   # Teaching Assistance
   
-  ## Fall 2025: Information Resources Development Research
+  ## Fall 2025: Information Resources Construction Research
   Required course for first-year academic master's students in the Library Science track and second-year Master of Library and Information Studies students; also open to all university students.
   
-  ## Spring 2025: Information Resources Development
+  ## Spring 2025: Information Resources Construction
   Required course for second-year undergraduate Library Science students; also open to all university students.
   
   ## Fall 2024: Research Integrity and Academic Norms
   Required course for second-year doctoral students in Information Resources Management; also open to all university students.
   
-  ## Fall 2024: Information Resources Development Research
+  ## Fall 2024: Information Resources Construction Research
   Required course for first-year academic master's students in the renamed Information Resources Management discipline's Library Science track and second-year Master of Library and Information Studies students; also open to all university students.
   
-  ## Spring 2024: Information Resources Development
+  ## Spring 2024: Information Resources Construction
   Required course for second-year undergraduate Library Science students; also open to all university students.
   
-  ## Fall 2023: Information Resources Development Research
+  ## Fall 2023: Information Resources Construction Research
   Required course for first-year academic master's students in the Library Science track of Library, Information and Archives Management and second-year Master of Library and Information Studies students; also open to all university students.
   
   ---
