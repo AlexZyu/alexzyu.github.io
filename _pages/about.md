@@ -31,7 +31,7 @@ body_en: |
   
   ---
   
-  (Last updated: July 13, 2026)
+  (Last updated: Sept 02, 2026)
 ---
 
 朱禹目前就读于[南京大学信息管理学院](https://im.nju.edu.cn)，正在攻读信息资源管理（图书馆学方向）博士学位（硕博连读，2023-2029），师从[叶继元教授](https://im.nju.edu.cn/info/1130/33511.htm)和[谢欢教授](https://im.nju.edu.cn/info/1129/32791.htm)。其研究聚焦于人工智能生成内容（AI Generated Content）背景下的**智能学术评价**与**信息资源建设**。
@@ -54,4 +54,4 @@ E-mail: zhu.yu@smail.nju.edu.cn
 
 ---
 
-（更新于2026年7月13日）
+（更新于2026年9月2日）

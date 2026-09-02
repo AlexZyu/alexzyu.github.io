@@ -51,6 +51,8 @@ body_en_after_publications: |
     * Journal of Librarianship & Information Science
     * Annual Meeting of the Association for Information Science & Technology (ASIS&T)
     * Frontiers in Artificial Intelligence (Technology and Law section)
+    * Frontiers in Research Metrics and Analytics
+    * AI and Ethics
   
   Other Activities
   ======
@@ -117,6 +119,8 @@ body_en_after_publications: |
   * Journal of Librarianship & Information Science
   * Annual Meeting of the Association for Information Science & Technology (ASIS&T)
   * Frontiers in Artificial Intelligence (Technology and Law section)
+  * Frontiers in Research Metrics and Analytics
+  * AI and Ethics
   
 <!-- 工作经历
 ======
