@@ -26,7 +26,7 @@ body_en: |
   
   ## Research Projects
   
-  1. Postgraduate Research and Practice Innovation Program of Jiangsu Province, “The Logic and Implementation Pathways of Generative AI-Assisted Evaluation in Philosophy and Social Sciences from the Perspective of the All-round Evaluation of Research,” 2026-present, Principal Investigator
+  1. Postgraduate Research and Practice Innovation Program of Jiangsu Province, “The Logic and Implementation Pathways of Generative AI-Assisted Evaluation in Philosophy and Social Sciences from the Perspective of the All-round Evaluation of Research,” (26CXJH0170) 2026-present, Principal Investigator
   2. Postgraduate Research and Practice Innovation Program of Jiangsu Province, “Construction and Validation of a Generative AI-Driven All-round Evaluation Model for Philosophy and Social Sciences” (KYCX25_0130), 2025-2026, completed, Principal Investigator
   3. 2025 Teaching Reform Research Project of the Jiangsu Academic Library and Information Work Committee, “Development and Evaluation Strategies for an Artificial Intelligence Literacy Education System in Higher Education” (2025JTZD06), 2025-present, Participant
   4. Major Project of the National Social Science Fund of China, “Research on Developing a Chinese-Style Evaluation System for Philosophy and Social Sciences from the Perspective of the All-round Evaluation of Research” (24&ZD323), 2024-present, Participant
@@ -54,9 +54,9 @@ body_en: |
 
 
 ## 科研项目
-1. 江苏省研究生科研创新计划项目，学术“全评价”视域下生成式AI辅助哲学社会科学评价的逻辑与实现路径，2026-，主持
-2. 江苏省研究生科研创新计划项目，生成式AI驱动的哲学社会科学“全评价”模型构建与验证（KYCX25_0130），2025-2026，结项
-3. 2025年江苏省高校图工委教改研究课题，高校人工智能素养教育体系建设与评估策略研究(2025JTZD06)，2025-，参与
+1. 江苏省研究生科研创新计划项目，学术“全评价”视域下生成式AI辅助哲学社会科学评价的逻辑与实现路径（26CXJH0170），2026-，主持
+2. 江苏省研究生科研创新计划项目，生成式AI驱动的哲学社会科学“全评价”模型构建与验证（KYCX25_0130），2025-2026，主持
+3. 2025年江苏省高校图工委教改研究课题，高校人工智能素养教育体系建设与评估策略研究(2025JTZD06)，2025-2026，参与
 4. 国家社会科学基金重大项目，学术“全评价”视域下中国特色哲学社会科学评价体系建设研究（24&ZD323），2024-，参与
 5. 南京大学中国特色哲学社会科学自主知识体系建构“引领工程”重大研究专项“基于原创概念体系的中国图书情报学（信息资源管理学）自主知识体系与学术评价体系构建研究”（202430059），2024-，参与
 6. 国家社会科学基金重大项目，新时代我国文献信息资源保障体系重构研究（19ZDA346），2023-2024，参与
