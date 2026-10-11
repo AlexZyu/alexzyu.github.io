@@ -44,6 +44,8 @@ body_en: |
 
 如需了解更多研究成果，欢迎访问其[ResearchGate](https://www.researchgate.net/profile/Zhu-Yu-31)（英文）或[CNKI学者主页](https://au.cnki.net/author/personalInfo/000056113681)（中文）。
 
+<a href="/images/timeline.svg" target="_blank" title="点击查看大图"><img src="/images/timeline.svg" alt="博士阶段第1学年时间轴（2025/7–2026/10）" style="width:100%; height:auto;"></a>
+
 ---
 
 **通信方式**
@@ -54,4 +56,4 @@ E-mail: zhu.yu@smail.nju.edu.cn
 
 ---
 
-（更新于2026年9月21日）
+（更新于2026年10月11日）
