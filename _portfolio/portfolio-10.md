@@ -1,6 +1,6 @@
 ---
-title: "[10] 2024年研究生国家奖学金"
-title_en: "[10] National Scholarship for Postgraduates, 2024"
+title: "[10] 2024年研究生国家奖学金（硕士）"
+title_en: "[10] National Scholarship for Postgraduates (Master), 2024"
 url_en: /en/portfolio/portfolio-10/
 excerpt: ""
 collection: portfolio
