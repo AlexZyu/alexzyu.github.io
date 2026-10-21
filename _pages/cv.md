@@ -53,6 +53,7 @@ body_en_after_publications: |
     * Frontiers in Artificial Intelligence (Technology and Law section)
     * Frontiers in Research Metrics and Analytics
     * AI and Ethics
+    * MetaROR
   
   Other Activities
   ======
@@ -121,6 +122,7 @@ body_en_after_publications: |
   * Frontiers in Artificial Intelligence (Technology and Law section)
   * Frontiers in Research Metrics and Analytics
   * AI and Ethics
+  * MetaROR
   
 <!-- 工作经历
 ======
