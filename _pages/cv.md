@@ -119,10 +119,13 @@ body_en_after_publications: |
   * Research Methods in Applied Linguistics
   * Journal of Librarianship & Information Science
   * Annual Meeting of the Association for Information Science & Technology (ASIS&T)
-  * Frontiers in Artificial Intelligence (Technology and Law section)
-  * Frontiers in Research Metrics and Analytics
+  * Frontiers
+    ** Frontiers in Artificial Intelligence (Technology and Law section)
+    ** Frontiers in Research Metrics and Analytics
+    ** Frontiers in Communication
   * AI and Ethics
   * MetaROR
+  
   
 <!-- 工作经历
 ======
